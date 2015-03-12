@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+When you are working with other users or using another computer that isn't setup with your git account (ie, public). 
