@@ -13,3 +13,7 @@ Forks is a github clone of another respository. This is a feature only available
 Clone is a one to one copy of the respository from git. It does not leave or give any indications to the original developer besides for the commit history.
 
 A branch is a copy of the file/changes that are suited for different functions of the code and can be merged with a main branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Offline access. So that you can continue work when you don't have any internet access.
