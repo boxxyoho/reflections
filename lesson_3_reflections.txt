@@ -17,3 +17,7 @@ A branch is a copy of the file/changes that are suited for different functions o
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Offline access. So that you can continue work when you don't have any internet access.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could manually share files or give someone access to a file share. It would be harder as you would have to generate seperate files and recovering would be hard as there is no way of commenting changes.
