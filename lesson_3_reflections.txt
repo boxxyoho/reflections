@@ -21,3 +21,7 @@ Offline access. So that you can continue work when you don't have any internet a
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You could manually share files or give someone access to a file share. It would be harder as you would have to generate seperate files and recovering would be hard as there is no way of commenting changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+To make experiental changes and for it to be verified by other users before being merged into the master branch.
